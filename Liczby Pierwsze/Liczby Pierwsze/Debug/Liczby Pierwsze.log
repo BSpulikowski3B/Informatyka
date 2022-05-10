@@ -1,0 +1,6 @@
+﻿  Liczby Pierwsze.cpp
+H:\Informatyka\Liczby Pierwsze\Liczby Pierwsze\Liczby Pierwsze.cpp(9,2): error C2065: "isPrime": niezadeklarowany identyfikator
+H:\Informatyka\Liczby Pierwsze\Liczby Pierwsze\Liczby Pierwsze.cpp(15,22): error C2065: "p": niezadeklarowany identyfikator
+H:\Informatyka\Liczby Pierwsze\Liczby Pierwsze\Liczby Pierwsze.cpp(16,7): error C2065: "p": niezadeklarowany identyfikator
+H:\Informatyka\Liczby Pierwsze\Liczby Pierwsze\Liczby Pierwsze.cpp(17,12): error C2065: "p": niezadeklarowany identyfikator
+H:\Informatyka\Liczby Pierwsze\Liczby Pierwsze\Liczby Pierwsze.cpp(19,18): error C2065: "p": niezadeklarowany identyfikator
